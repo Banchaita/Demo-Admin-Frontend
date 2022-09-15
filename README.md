@@ -1,2 +1,2 @@
 # Demo-Admin-Frontend
-Developed by react
+Developed by react.js
